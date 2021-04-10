@@ -3,6 +3,11 @@
 <!--
 **jayanthvarma1501/jayanthvarma1501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+My name is Jayanth varma Dantuluri. I am pursuing master's in Data and Knowledge Engineering at Otto von Guericke University. I’m always ready to take up new challenges and passionate to solve real-world problems using Machine learning and Deep learning techniques and work on cutting-edge topics. 
+I’m currently working on Radar and Time of Flight sensor fusion to detect and track humans in 3D space.
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
